@@ -55,11 +55,5 @@ Returns all records from both tables, with NULLs where there is no match.
 Outcome
 This project enhanced my practical SQL skills by teaching me how to design relational tables, insert data, and apply various JOIN operations. I gained a deeper understanding of data relationships and how to extract meaningful results from multiple tables.
 
-https://github.com/Debadatta22/JOINS-PRACTICE/issues/1#issue-3082120344
-
-https://github.com/Debadatta22/JOINS-PRACTICE/issues/1#issuecomment-2899999309
-
-https://github.com/Debadatta22/JOINS-PRACTICE/issues/1
-
 
 
