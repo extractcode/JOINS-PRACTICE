@@ -1,23 +1,20 @@
-# JOINS-PRACTICE
-CODTECH INTERNSHIP TASK-1 SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
-PERFORMED & SUBMITTED BY:
+NAME: HIMANSHU KUMAR
 
---TASK PERFORMED BY: DEBADATTA ROUT 
+INTERN ID: CTIS7541
 
---Intern ID : CT04DN790 
+DOMAIN: SQL
 
---DOMAIN: SQL  
+DURATION: 6 WEEEKS
 
---DURATION: 4 WEEKS  
-
---MENTOR: Neela Santhosh  
+MENTOR: NEELA SANTOSH 
 
 
 
 Task Description
 
-As part of my 4-week internship at Codtech IT Solutions under the mentorship of Neela Santhosh, I was assigned a hands-on project in the domain of SQL. The main objective was to understand and implement various types of SQL JOIN operations to combine and analyze relational data. My task was to create two tables: STUDENT, containing student details, and ACADEMICS, containing their academic records. I inserted data into both tables using INSERT statements and applied SQL JOINs to fetch meaningful results.
+As part of my 6-week internship at Codtech IT Solutions under the mentorship of Neela Santhosh, I was assigned a hands-on project in the domain of SQL. The main objective was to understand and implement various types of SQL JOIN operations to combine and analyze relational data. My task was to create two tables: STUDENT, containing student details, and ACADEMICS, containing their academic records. I inserted data into both tables using INSERT statements and applied SQL JOINs to fetch meaningful results.
 ![Image](https://github.com/user-attachments/assets/3b2ab351-235e-40b3-881e-19360ef773fa)
 
 
